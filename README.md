@@ -58,6 +58,9 @@ ASTRA_DB_KEYSPACE=<your-keyspace>
 ASTRA_DB_APPLICATION_TOKEN=<your-application-token>
 TABLE_NAME=<your-table-name>
 DB_API_ENDPOINT=<your-db-api-endpoint>
+BASE_API_URL=<your-base-api-url>
+LANGFLOW_ID=<your-langlfow-id>
+FLOW_ID=<your-flow-id>
 ```
 
 6. **Run the Application**:
