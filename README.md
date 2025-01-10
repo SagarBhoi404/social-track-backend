@@ -81,7 +81,7 @@ The backend will be running at `http://localhost:5000` by default.
 
 ### 2. Analyze Post Performance
 - **Endpoint**: `/api/performance`
-- **Method**: `POST`
+- **Method**: `GET`
 - **Description**: Returns performance metrics.
 
 ### 3. Generate AI Insights
@@ -97,5 +97,9 @@ The frontend code for the Social Track project can be found at the following Git
 
 ## Screenshots
 - **Langflow Structure**
+ 
+![langflow](https://github.com/user-attachments/assets/091ac365-ab09-432a-be74-342df9c9cff2)
 
 - **Astra Database Structure**
+  
+![astradb](https://github.com/user-attachments/assets/42927616-6a02-4ce9-b2b1-7f76ccb2be2d)
